@@ -58,4 +58,4 @@ Context APIs
 ## Author
 
 - Website - [ROBERT DEVASIA](https://rodevasia.github.io)
-- Frontend Mentor - [@docsploit](https://www.frontendmentor.io/profile/docsploit)
+- Frontend Mentor - [@rodevasia](https://www.frontendmentor.io/profile/rodevasia)
